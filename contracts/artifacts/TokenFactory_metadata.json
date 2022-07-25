@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/TokenFactory,sol.sol": "TokenFactory"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/TokenFactory,sol.sol": {
+			"keccak256": "0x3beb5808bdc88ffaa429799e4bac8d763a7219d18946202566884bc1b2bd627e",
+			"license": "Unlicense",
+			"urls": [
+				"bzz-raw://34cb4cd4e8f07f79bae41debbd15f3c6e8006fc8040605580ef8b6029dbbb265",
+				"dweb:/ipfs/Qmd8KHrehShFRGAM7UVAzqgsdy46fZZFPrCR98Cu1LMMG8"
+			]
+		}
+	},
+	"version": 1
+}
